@@ -1,1 +1,1 @@
-model/onnx_model/gpt2_int8.onnx filter=lfs diff=lfs merge=lfs -text
+gpt2_int8.onnx filter=lfs diff=lfs merge=lfs -text
