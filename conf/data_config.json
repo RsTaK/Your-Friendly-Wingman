@@ -1,0 +1,5 @@
+{
+    "save_cleaned_csv": "dataset/Cleaned.csv",
+    "data_path": "dataset",
+    "labels": "love"
+}

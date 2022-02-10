@@ -1,0 +1,1 @@
+/Users/rahulgulia/Documents/Github_projects/Your friendly wingman/src/quote_generator/model.py
